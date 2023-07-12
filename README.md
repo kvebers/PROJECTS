@@ -45,4 +45,10 @@
 
 #### An Algorithm for Transmition of the data from the Ground Station to the Satellite, with the apporpiate command functionallity
 
+## WATTWATCH 
+
+![1689155619660](https://github.com/kvebers/PROJECTS/assets/49612380/7b8586d2-6dca-4788-9f8a-631ab6c80d8d)
+
+#### SMALL APP BUILT IN HEILBRONN DATA SCIENCE HACKATON
+
 </div>
