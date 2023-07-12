@@ -31,5 +31,18 @@
 
 #### Animation made with Get NEXT LINE PROJECT AND SMALL Animator function on the terminal
 
+## TRACTOR
+![0817c3cc-26bd-4cb8-b51b-e2bcb63b9d40](https://github.com/kvebers/PROJECTS/assets/49612380/23cf915c-9a4b-4948-bc66-c4d7245c5b2b)
+![eb550be4-059f-4dab-85ca-f27d15c6076f](https://github.com/kvebers/PROJECTS/assets/49612380/2db8c1bb-8e9a-4ec9-a9fe-927234915414)
+
+#### Small Arduino Project, WITH C++ Backend, built for playing football in MAZE
+
+## IMAGES FROM THE SPACE
+
+![im2](https://github.com/kvebers/PROJECTS/assets/49612380/fd066a0b-26d9-42f4-82a8-4037c2f9039b)
+![img1](https://github.com/kvebers/PROJECTS/assets/49612380/fbdbe2c1-f385-4919-8fc9-3c2e6f30524c)
+
+
+#### An Algorithm for Transmition of the data from the Ground Station to the Satellite, with the apporpiate command functionallity
 
 </div>
