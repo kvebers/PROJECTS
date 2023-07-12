@@ -49,4 +49,10 @@
 
 #### SMALL APP BUILT IN HEILBRONN DATA SCIENCE HACKATON
 
+## [MINISHELL](https://github.com/kvebers/MiniShell)
+
+<img src="https://github.com/kvebers/PROJECTS/assets/49612380/0f5a43c2-8287-4de1-818e-d59db076ce48)" width="600" height="600">
+
+#### Implementation of the shell, can handle PIPES, HEREDOCS, REDIRECTIONS, BUILTINS, ECHO, CD, PWD, ENV, SET, UNSET, as well as EXECUTE. 
+
 </div>
