@@ -37,7 +37,7 @@
 
 #### Small Arduino Project, WITH C++ Backend, built for playing football in MAZE
 
-## IMAGES FROM THE SPACE
+## [IMAGES FROM THE SPACE](https://github.com/kvebers/Leanspace-2022-Hack-the-Space)
 
 ![im2](https://github.com/kvebers/PROJECTS/assets/49612380/fd066a0b-26d9-42f4-82a8-4037c2f9039b)
 ![img1](https://github.com/kvebers/PROJECTS/assets/49612380/fbdbe2c1-f385-4919-8fc9-3c2e6f30524c)
