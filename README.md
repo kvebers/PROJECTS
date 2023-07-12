@@ -37,6 +37,12 @@
 
 #### Small Arduino Project, WITH C++ Backend, built for playing football in MAZE
 
+## [MINISHELL](https://github.com/kvebers/MiniShell)
+
+<img src="https://github.com/kvebers/PROJECTS/assets/49612380/0f5a43c2-8287-4de1-818e-d59db076ce48)" width="600" height="600">
+
+#### Implementation of the shell, can handle PIPES, HEREDOCS, REDIRECTIONS, BUILTINS, ECHO, CD, PWD, ENV, SET, UNSET, as well as EXECUTE. 
+
 ## [IMAGES FROM THE SPACE](https://github.com/kvebers/Leanspace-2022-Hack-the-Space)
 
 <img src="https://github.com/kvebers/PROJECTS/assets/49612380/fd066a0b-26d9-42f4-82a8-4037c2f9039b" width="500" height="500">
@@ -48,11 +54,5 @@
 <img src="https://github.com/kvebers/PROJECTS/assets/49612380/7b8586d2-6dca-4788-9f8a-631ab6c80d8d" width="330" height="700">
 
 #### SMALL APP BUILT IN HEILBRONN DATA SCIENCE HACKATON
-
-## [MINISHELL](https://github.com/kvebers/MiniShell)
-
-<img src="https://github.com/kvebers/PROJECTS/assets/49612380/0f5a43c2-8287-4de1-818e-d59db076ce48)" width="600" height="600">
-
-#### Implementation of the shell, can handle PIPES, HEREDOCS, REDIRECTIONS, BUILTINS, ECHO, CD, PWD, ENV, SET, UNSET, as well as EXECUTE. 
 
 </div>
