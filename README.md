@@ -46,7 +46,7 @@
 ## [IMAGES FROM THE SPACE](https://github.com/kvebers/Leanspace-2022-Hack-the-Space)
 
 <img src="https://github.com/kvebers/PROJECTS/assets/49612380/fd066a0b-26d9-42f4-82a8-4037c2f9039b" width="500" height="500">
-<img src="https://github.com/kvebers/PROJECTS/assets/49612380/fbdbe2c1-f385-4919-8fc9-3c2e6f30524c" width="500" height="500">
+<img src="https://github.com/kvebers/PROJECTS/assets/49612380/fbdbe2c1-f385-4919-8fc9-3c2e6f30524c" width="450" height="500">
 
 #### An Algorithm for Transmition of the data from the Ground Station to the Satellite, with the apporpiate command functionallity, at Leanspace Space Hackathon
 
