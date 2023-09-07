@@ -9,6 +9,7 @@
 #### A tank that has an autopilot functionality using ultrasound sensor data, as well as RC capability using a Raspberry Pi microcontroller web server. It is covered with laser-cut plywood.
 
 ## [IRC](https://github.com/kvebers/IRC/tree/master)
+<img width="1417" alt="Screen Shot 2023-09-07 at 8 42 49 AM" src="https://github.com/kvebers/PROJECTS/assets/49612380/51cce3a4-492a-4ee1-9bc8-a64ab9bdcf5d">
 
 #### An Intertner Relay Chat server. built for KVIRC and NetCat clients
 
