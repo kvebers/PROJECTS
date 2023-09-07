@@ -33,7 +33,7 @@
 
 ## TRACTOR
 <img src="https://github.com/kvebers/PROJECTS/assets/49612380/23cf915c-9a4b-4948-bc66-c4d7245c5b2b" width="500" height="500">
-<img src="https://github.com/kvebers/PROJECTS/assets/49612380/2db8c1bb-8e9a-4ec9-a9fe-927234915414" width="500" height="500">
+<img src="https://github.com/kvebers/PROJECTS/assets/49612380/2db8c1bb-8e9a-4ec9-a9fe-927234915414" width="400" height="500">
 
 #### Small Arduino Project, WITH C++ Backend, built for playing football in MAZE
 
